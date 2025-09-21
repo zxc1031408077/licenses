@@ -1,17 +1,29 @@
 {
-  "ABC123DEF456": {
-    "user": "测试用户2",
-    "expire": "2025-12-31",
-    "status": "valid"
+  "licenses": {
+    "ABC123DEF456": {
+      "user": "測試用戶1",
+      "expire": "2025-09-24",
+      "status": "valid",
+      "created": "2024-01-01",
+      "features": ["basic"]
+    },
+    "TEST001DEMO": {
+      "user": "演示用戶",
+      "expire": "2025-12-31",
+      "status": "valid",
+      "created": "2024-01-01",
+      "features": ["basic", "advanced"]
+    },
+    "XYZ789TRIAL": {
+      "user": "試用用戶",
+      "expire": "2025-06-30",
+      "status": "valid",
+      "created": "2024-01-01",
+      "features": ["basic"]
+    }
   },
-  "XYZ789UVW012": {
-    "user": "测试用户2", 
-    "expire": "2025-06-30",
-    "status": "valid"
-  },
-  "EXPIRED001": {
-    "user": "过期用户",
-    "expire": "2024-01-01",
-    "status": "expired"
+  "server_info": {
+    "version": "1.0",
+    "last_updated": "2024-12-21"
   }
 }
