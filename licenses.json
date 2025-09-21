@@ -1,0 +1,17 @@
+{
+  "ABC123DEF456": {
+    "user": "测试用户1",
+    "expire": "2025-12-31",
+    "status": "valid"
+  },
+  "XYZ789UVW012": {
+    "user": "测试用户2", 
+    "expire": "2025-06-30",
+    "status": "valid"
+  },
+  "EXPIRED001": {
+    "user": "过期用户",
+    "expire": "2024-01-01",
+    "status": "expired"
+  }
+}
