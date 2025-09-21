@@ -1,0 +1,20 @@
+{
+  "USER001": {
+    "ewogICJsaWN": "2025-09-24",
+    "user_name": "会员用户1",
+    "create_date": "2024-01-01",
+    "level": "premium"
+  },
+  "USER002": {
+    "expire_date": "2024-06-15",
+    "user_name": "会员用户2", 
+    "create_date": "2024-01-01",
+    "level": "basic"
+  },
+  "DEMO123": {
+    "expire_date": "2024-12-25",
+    "user_name": "演示用户",
+    "create_date": "2024-11-01",
+    "level": "premium"
+  }
+}
