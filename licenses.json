@@ -1,1 +1,16 @@
-ewogICJsaWNlbnNlX2tleXMiOiB7CiAgICAiNjAwMCI6IHsKICAgICAgImV4cGlyeSI6ICIyMDI1LTA5LTI0IiwKICAgICAgIm1heF9kZXZpY2VzIjogMywKICAgICAgImFjdGl2ZV9kZXZpY2VzIjogW10KICAgIH0KICB9LAogICJibGFja2xpc3QiOiBbXQp9
+{
+  "valid_codes": {
+    "5f3bfa12f56e51832bf778bd247c5674": {
+      "expiry": "2025-09-24",
+      "user": "用户名1",
+      "level": "premium"
+    },
+    "encoded_registration_code_2": {
+      "expiry": "2025-06-30", 
+      "user": "用户名2",
+      "level": "basic"
+    }
+  },
+  "version": "1.0",
+  "update_url": "https://github.com/user/repo/releases"
+}
